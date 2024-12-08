@@ -70,8 +70,8 @@ header {
   justify-content: space-between;
   padding: 1.7rem 10%;
   height: 6.5rem;
-  background-color: #fff;
-  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
+  background-color: #ffffff;
+  box-shadow: 0 1px 4px rgba(171, 213, 255, 0.3);
 }
 section {
   min-height: 100vh;
@@ -461,7 +461,7 @@ header .navbar ul li a:hover {
 /* skills section starts */
 .skills {
   min-height: 90vh;
-  background: linear-gradient(to bottom, #57059e, #4a00e0);
+  background: linear-gradient(to bottom, #000000, #dbd3ec);
 }
 .skills h2 {
   color: #fff;
